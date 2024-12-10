@@ -1,0 +1,2 @@
+# reduct2
+main
